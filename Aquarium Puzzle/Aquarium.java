@@ -2,7 +2,8 @@
 /**
  * Aquarium represents a single problem in the game Aquarium.
  *
- * @author Lyndon While 
+ * @author Lyndon While
+ * @author Farshad Ghanbari
  * @version 2020
  */
 public class Aquarium
