@@ -4,6 +4,7 @@
  * a board position in an Aquarium puzzle is a solution.
  *
  * @author Lyndon While
+ * @author Farshad Ghanbari
  * @version 2020
  */
 import java.util.Arrays; 
