@@ -1,4 +1,4 @@
-# Aquarium-Puzzle
+# The Aquarium Puzzle
 ---
 
 ### CITS1001 - Software Engineering with Java Project
