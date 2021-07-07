@@ -3,6 +3,7 @@
  * AquariumViewer represents an interface for playing a game of Aquarium.
  *
  * @author Lyndon While
+ * @author Farshad Ghanbari
  * @version 2020
  */
 import java.awt.*;
